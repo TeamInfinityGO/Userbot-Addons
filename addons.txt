@@ -1,0 +1,14 @@
+fonttools
+covid
+gtts
+pokedex.py
+pyshorteners
+pyfiglet
+pyjokes
+speechrecognition
+quotefancy
+wikipedia
+textblob
+lyrics_extractor==3.0.1
+speedtest-cli
+emoji
